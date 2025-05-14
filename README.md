@@ -4,6 +4,9 @@ Can a machine learn your taste in music?
 
 **Moosic** is an experimental project that uses unsupervised machine learning (K-Means clustering) to analyze and group your favorite songs based on audio features – then auto-generates playlists on Spotify that (maybe) match your vibe. The real question: can an algorithm beat your ears?
 
+Listen to the results here 
+https://open.spotify.com/playlist/1ZqXsDt0ScZ3Dl5yLG9N1R
+
 ---
 
 ## 🚀 Features
