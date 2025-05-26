@@ -35,14 +35,8 @@ Can a machine learn taste in music?
 - `pandas`, `numpy`, `matplotlib` – for data wrangling and visualization
 
 ---
-
-## 🧪 Example Use Case
-
-Cluster your liked songs into 4 groups:
-```bash
-python moosic.py --source liked --clusters 4
-
 Listen to the results here 
+
 https://open.spotify.com/playlist/1ZqXsDt0ScZ3Dl5yLG9N1R
 https://open.spotify.com/playlist/0b0AScx4L8ut23Loyl3K7R
 https://open.spotify.com/playlist/4CWrXzih8R4CdYYZ6raD94
